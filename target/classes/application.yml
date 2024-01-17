@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://job-board.cp0stzkkixlf.us-east-2.rds.amazonaws.com:5432/job-board
+    username: cbritten
+    password: L43q##27!xx%xqn
+    driver-class-name: org.postgresql.Driver
